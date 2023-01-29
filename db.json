@@ -1,0 +1,53 @@
+{
+"projects":[
+  {
+    "id": 1,
+    "title": "COVID-19-Tracker",
+    "imgUrl": "https://i.ibb.co/XDskmDQ/covid19tracker.webp",
+    "framework": "REACT",
+    "link": "https://covid19trackersami.web.app/"
+  },
+  {
+    "id": 2,
+    "title": "Netflix Clone",
+    "imgUrl": "https://i.ibb.co/G2CpGR2/netflix-clone.webp",
+    "framework": "REACT",
+    "link": "https://netflixbysami.web.app/"
+  },
+  {
+    "id": 3,
+    "title": "YouTube UI Clone",
+    "imgUrl": "https://i.ibb.co/5hKh0qt/youtube-clone.webp",
+    "framework": "REACT",
+    "link": "https://ytbysami.web.app/"
+  },
+  {
+    "id": 4,
+    "title": "Twitter Clone",
+    "imgUrl": "https://i.ibb.co/GkjyXxj/twitter-clone.webp",
+    "framework": "REACT",
+    "link": "https://twittersami.web.app/"
+  },
+  {
+    "id": 5,
+    "title": "ColorsBySami",
+    "imgUrl": "https://i.ibb.co/zNNb4PG/colorsbysami.webp",
+    "framework": "REACT",
+    "link": "https://colorsbysami.web.app/"
+  },
+  {
+    "id": 6,
+    "title": "Weather App",
+    "imgUrl": "https://i.ibb.co/Wzm4jZH/weather.webp",
+    "framework": "REACT",
+    "link": "https://weatherbysami.web.app/"
+  },
+  {
+    "id": 7,
+    "title": "IMDb Clone",
+    "imgUrl": "https://i.ibb.co/5xRjmWk/smdb.webp",
+    "framework": "REACT",
+    "link": "https://smdbbysami.web.app/"
+  }
+]
+}
